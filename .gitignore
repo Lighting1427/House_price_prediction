@@ -1,0 +1,19 @@
+# Ignore CSV files
+*.csv
+
+# BUT keep submission.csv
+!submission.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS / IDE
+.DS_Store
+.env
+.venv/
+.vscode/
+.idea/
